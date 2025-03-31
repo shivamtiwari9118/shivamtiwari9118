@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
+![image](https://github.com/user-attachments/assets/393370ab-1234-4952-ae53-fd19ac5c9d62)<h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on Full stack projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about JavaScript<br>📝<br>📫 How to reach me shivamtiwarivinshyachal@gmail.com<br>
+🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on Full stack projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about JavaScript<br>📝<br>📫 How to reach me shivamt73885@gmail.com<br>
 
 
 ## 🌐 Socials:
