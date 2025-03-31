@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/393370ab-1234-4952-ae53-fd19ac5c9d62)<h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
+<h1 align="center">Hi 👋, I'm Shivam Tiwari</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 # 💫 About Me:
